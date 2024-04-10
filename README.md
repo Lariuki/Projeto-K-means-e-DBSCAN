@@ -1,3 +1,5 @@
+# Clusterização: InvestSP Prospect Advisor
+
 Todo bom empreendedor deve entender que para fechar bons negócios é necessário segmentar o perfil mais assertivo de clientes, antes de iniciar a prospecção.
 
 Diante disso, vamos apresentar uma solução de clusterização, que apoiará as empresas como consultorias, fornecedores de equipamentos, hardwares e softwares, entre outros. A formular a estratégia de prospects dentro do estado de São Paulo, a partir de parâmetros pré-estabelecidos como sub-região/município de atuação, tipo de investimento e ramo de atividade da empresa investidora, por meio de algoritmos em Python e integração de API.
