@@ -1,2 +1,0 @@
-Pesquisa de Investimentos Anunciados no Estado de São Paulo (Piesp) (https://www.piesp.seade.gov.br/ ).
-Pesquisa de Investimentos Anunciados no Estado de São Paulo (Piesp) A PIESP, realizada pela Fundação Seade desde 1998 e, desde o início de 2012, com metodologia revisada, acompanha os anúncios de investimentos produtivos de empresas veiculados na imprensa, fornecendo informações que auxiliam a identificação de tendências setoriais e regionais da economia paulista.
